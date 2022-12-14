@@ -36,6 +36,9 @@ input {
 .temp {
   font-size: 40px;
 }
+.feels {
+  font-size: 15px;
+}
 .desc {
   font-size: 18px;
 }
