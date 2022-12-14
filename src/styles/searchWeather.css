@@ -1,0 +1,48 @@
+.weatherdetails {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 400px;
+  background-color: rgb(24, 21, 21);
+  opacity: 0.8;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+  box-shadow: 10px 10px 10px -2px black;
+  margin-bottom: 50px;
+}
+input,
+button {
+  margin-top: 18px;
+  margin: 10px;
+  background-color: transparent;
+}
+input {
+  border: 2px solid gold;
+  background-color: none;
+  color: white;
+}
+.details {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 10px;
+}
+.name {
+  font-size: 25px;
+  margin-top: 50px;
+}
+.temp {
+  font-size: 40px;
+}
+.desc {
+  font-size: 18px;
+}
+button {
+  background-color: gold;
+  padding: 5px;
+  border-radius: 3px;
+  color: black;
+  font-weight: bold;
+}
