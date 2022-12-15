@@ -9,12 +9,12 @@
   color: white;
   border-radius: 5px;
   font-size: 20px;
-  box-shadow: 10px 10px 10px -2px black;
+  box-shadow: 10px 10px 10px -4px black;
   margin-bottom: 50px;
 }
 input,
 button {
-  margin-top: 18px;
+  margin-top: 30px;
   margin: 10px;
   background-color: transparent;
 }
@@ -24,14 +24,14 @@ input {
   color: white;
 }
 .details {
-  margin-top: 50px;
+  margin-top: 30px;
   display: flex;
   justify-content: space-around;
   font-size: 10px;
 }
 .name {
   font-size: 25px;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 .temp {
   font-size: 40px;
@@ -40,7 +40,7 @@ input {
   font-size: 15px;
 }
 .desc {
-  font-size: 18px;
+  font-size: 15px;
 }
 button {
   background-color: gold;
